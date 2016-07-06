@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/o_programie"
+        android:id="@+id/title"
+        android:onClick="onProgramieClick"/>
+    <item android:title="@string/polaczenie"
+        android:id="@+id/title1"
+        android:onClick="onPalaczenieClick"/>
+    <item android:title="@string/navigation"
+        android:id="@+id/title2"
+        android:onClick="onNavigationClick"/>
+    <item android:title="@string/run_in_background"
+        android:id="@+id/Runinbackground"
+        android:onClick="onRunInBackgroundClick"/>
+
+</menu>
